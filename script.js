@@ -107,7 +107,7 @@ const selectedQuestions = [];
 let score = 0;
 
 function getRandomQuestions() {
-    while (selectedQuestions.length < 10) {  // Select 10 random questions
+    while (selectedQuestions.length < 10) {  // Selection of 10 random questions
         let randomIndex = Math.floor(Math.random() * questions.length);
         if (!selectedQuestions.includes(randomIndex)) {
             selectedQuestions.push(randomIndex);
