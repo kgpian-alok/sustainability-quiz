@@ -19,7 +19,7 @@ const questions = [
     {
         question: "Which renewable energy sources can be used to reduce the carbon footprint of IIT Kharagpur campus?",
         options: ["Solar power", "Wind energy", "Fossil fuels", "Biomass burning"],
-        correct: ["Solar power", "Wind energy", "Biomass burning"]
+        correct: ["Solar power", "Wind energy"]
     },
     {
         question: "What sustainable initiatives can be implemented to reduce Scope II emissions, especially electricity emissions?",
